@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BaseAdapterEx</string>
+    <string-array name="Title">
+        <item>Name 1</item>
+        <item>Name 2</item>
+        <item>Name 3</item>
+        <item>Name 4</item>
+        <item>Name 5</item>
+        <item>Name 6</item>
+        <item>Name 7</item>
+        <item>Name 8</item>
+        <item>Name 9</item>
+        <item>Name 10</item>
+        <item>Name 11</item>
+        <item>Name 12</item>
+    </string-array>
+    <string-array name="description">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+        <item>Description 4</item>
+        <item>Description 5</item>
+        <item>Description 6</item>
+        <item>Description 7</item>
+        <item>Description 8</item>
+        <item>Description 9</item>
+        <item>Description 10</item>
+        <item>Description 11</item>
+        <item>Description 12</item>
+    </string-array>
+</resources>
